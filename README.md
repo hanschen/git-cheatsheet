@@ -15,6 +15,7 @@ TODO: add explanation
 
 Display files changed since last commit.
 Adding generated files to ```.gitignore``` stops them from appearing in this list.
+It has separate sections for files that would be saved if you committed right now, for those files that have been changed since the last version it knows about, and for files it does not know about.
 
     git status
 
