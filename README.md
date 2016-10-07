@@ -13,7 +13,8 @@ TODO: add explanation
 
 ## Record changes
 
-TODO: add explanation
+Display files changed since last commit.
+Adding generated files to ```.gitignore``` stops them from appearing in this list.
 
     git status
 
