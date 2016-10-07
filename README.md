@@ -4,106 +4,106 @@
 
 TODO: add explanation
 
-  git init
+    git init
 
 TODO: add explanation
 
-  git clone
+    git clone
 
 
 ## Record changes
 
 TODO: add explanation
 
-  git status
+    git status
 
 TODO: add explanation
 
-  git add
+    git add
 
 TODO: add explanation
 
-  git commit -v
+    git commit -v
 
 
 ## View history and changes
 
 TODO: add explanation
 
-  git log
+    git log
 
 TODO: add explanation
 
-  git diff
+    git diff
 
 TODO: add explanation
 
-  git show
+    git show
 
 TODO: add explanation
 
-  git checkout
+    git checkout
 
 
 ## Undo things
 
 TODO: add explanation
 
-  git reset HEAD
+    git reset HEAD
 
 TODO: add explanation
 
-  git checkout --
+    git checkout --
 
 TODO: add explanation
 
-  git revert
+    git revert
 
 
 ## Branches
 
 TODO: add explanation
 
-  git checkout -b
+    git checkout -b
 
 TODO: add explanation
 
-  git branch
+    git branch
 
 TODO: add explanation
 
-  git branch -d
+    git branch -d
 
 TODO: add explanation
 
-  git checkout
+    git checkout
 
 TODO: add explanation
 
-  git merge
+    git merge
 
 
 ## Working with remotes
 
 TODO: add explanation
 
-  git remote -v
+    git remote -v
 
 TODO: add explanation
 
-  git remote add
+    git remote add
 
 TODO: add explanation
 
-  git fetch
+    git fetch
 
 TODO: add explanation
 
-  git pull
+    git pull
 
 TODO: add explanation
 
-  git push
+    git push
 
 
 # Vocabulary
