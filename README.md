@@ -2,7 +2,7 @@
 
 ## Create
 
-TODO: add explanation
+TODO: initialize the git environment
 
     git init
 
