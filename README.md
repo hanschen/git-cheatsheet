@@ -28,7 +28,9 @@ TODO: add explanation
 
 ## View history and changes
 
-TODO: add explanation
+Show a breif description of changes to the repository.
+My preference for a general overview is ```$ git log --graph --branches --remotes --pretty='format:%h %ad %an %d %s' --date=short```
+To restrict the range of commits shown, use ```$ git log <commit id>..<commit id>```
 
     git log
 
