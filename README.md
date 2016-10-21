@@ -6,7 +6,7 @@ TODO: add explanation
 
     git init
 
-TODO: add explanation
+TODO: "git clone" clones the file from the git repository to the directory that you are currently in (you may give it a new name in your directory, if you like).
 
     git clone
 
