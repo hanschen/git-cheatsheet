@@ -6,7 +6,7 @@ TODO: initialize the git environment
 
     git init
 
-TODO: add explanation
+TODO: "git clone" clones the file from the git repository to the directory that you are currently in (you may give it a new name in your directory, if you like).
 
     git clone
 
@@ -28,7 +28,9 @@ TODO: add explanation
 
 ## View history and changes
 
-TODO: add explanation
+Show a breif description of changes to the repository.
+My preference for a general overview is ```$ git log --graph --branches --remotes --pretty='format:%h %ad %an %d %s' --date=short```
+To restrict the range of commits shown, use ```$ git log <commit id>..<commit id>```
 
     git log
 
