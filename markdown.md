@@ -2,7 +2,7 @@
 
 Markdown is a way of annotating text to describe document structure
 and style. This is done in such a manner that a script can turn the
-document into HTML. 
+document into HTML.
 
 ## Section
 
